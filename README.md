@@ -8,14 +8,10 @@
 | 6                        | 张锦雄先生                        | Abdul Alek Soelystio          | 印尼中华总商会                                      | 总主席 Chairman                                              |
 | 7                        | 林文猛先生                        | lai Tun                       | 缅甸中华总商会                                      | 会长 President                                              |
 | 8                        | 王海东                          | Wang HaiDong                  | 辽宁省海外联谊会                                     | 副会长 Vice President                                        |
-| 9                        | 关集双                          | Guan JiShuang                 | 黑龙江省侨务办公室                                    | 黑龙江省侨办主任、黑龙江省海外联谊会副会
-
-Director, Vice President            |
+| 9                        | 关集双                          | Guan JiShuang                 | 黑龙江省侨务办公室                                    | 黑龙江省侨办主任、黑龙江省海外联谊会副会Director, Vice President            |
 | 10                       | 申建平                          | Shen JianPing                 | 黑龙江省侨务办公室                                    | 黑龙江省归国华侨联合会党组书记、主席（正厅级）Chairman                           |
 | 11                       | 拿督陈镇明                        | Dato' Tan Tian Meng           | 中总                                           | 中总总秘书                                                     |
-| 12                       | 拿督斯里方炎华                      | Dato' Seri Hong Yeam
-
-Wah     | 中总                                           | 中总副总会长兼槟州中华总商会会长                                          |
+| 12                       | 拿督斯里方炎华                      | Dato' Seri Hong Yeam Wah     | 中总                                           | 中总副总会长兼槟州中华总商会会长                                          |
 |                          |                              |                               |                                              |                                                           |
 |                          | VIP \_ Table VIP 15          |                               |                                              |                                                           |
 | 1                        | 范大福                          | Beom Dae Bok                  | 韩国釜蔚庆中华总商会                                   | 会长 President                                              |
